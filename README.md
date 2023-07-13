@@ -29,15 +29,21 @@
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typeScript&logoColor=white" />
-<img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
+<img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
 <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
-<img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat&logo=redux&logoColor=white" />
-<img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white" />
 <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white" />
 <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=Html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+<img alt="Material Design" src="https://img.shields.io/badge/-Material Design-757575?style=flat&logo=material-design&logoColor=white" />
+<img alt="Material Design Icons" src="https://img.shields.io/badge/-Material Design Icons-2196F3?style=flat&logo=material-design-icons&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
+<img alt="Material UI" src="https://img.shields.io/badge/-Material UI-0081CB?style=flat&logo=material-ui&logoColor=white" />
+<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+<img alt="Styled" src="https://img.shields.io/badge/-Styled Components-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
+<img alt="React Router" src="https://img.shields.io/badge/-React Router-CA4245?style=flat&logo=react-router&logoColor=white" />
+<img alt="D3.js" src="https://img.shields.io/badge/-D3-F9A03C?style=flat&logo=d3.js&logoColor=white" />
+<img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 </p>
 
@@ -51,17 +57,11 @@
 <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" />
 <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" />
 <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+<img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat&logo=redux&logoColor=white" />
+<img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white" />
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 <img alt="vuetify" src="https://img.shields.io/badge/-Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white" />
-<img alt="Material UI" src="https://img.shields.io/badge/-Material UI-0081CB?style=flat&logo=material-ui&logoColor=white" />
-<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
-<img alt="Styled" src="https://img.shields.io/badge/-Styled Components-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
-<img alt="React Router" src="https://img.shields.io/badge/-React Router-CA4245?style=flat&logo=react-router&logoColor=white" />
-<img alt="D3.js" src="https://img.shields.io/badge/-D3-F9A03C?style=flat&logo=d3.js&logoColor=white" />
-<img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-<img alt="Material Design" src="https://img.shields.io/badge/-Material Design-757575?style=flat&logo=material-design&logoColor=white" />
-<img alt="Material Design Icons" src="https://img.shields.io/badge/-Material Design Icons-2196F3?style=flat&logo=material-design-icons&logoColor=white" />
 <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=white" />
 <img alt="socket.io" src="https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white" />
 <img alt="Nodemon" src="https://img.shields.io/badge/-Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white" />
