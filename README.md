@@ -78,7 +78,3 @@
 <img alt="Strapi" src="https://img.shields.io/badge/-Strapi-2E7EEA?style=flat&logo=Strapi&logoColor=white" />
 <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manas-sahu&show_icons=true&locale=en&layout=compact" alt="manas-sahu" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manas-sahu&" alt="manas-sahu" /></p>
