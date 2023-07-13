@@ -29,7 +29,7 @@
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typeScript&logoColor=white" />
-<img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+<img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
 <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
 <img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat&logo=redux&logoColor=white" />
@@ -49,8 +49,8 @@
 <img alt="azuredevops" src="https://img.shields.io/badge/-AzureDevops-0078D7?style=flat&logo=azuredevops&logoColor=white" />
 <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
 <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-<img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
 <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" />
+<img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" />
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 <img alt="vuetify" src="https://img.shields.io/badge/-Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white" />
 <img alt="Material UI" src="https://img.shields.io/badge/-Material UI-0081CB?style=flat&logo=material-ui&logoColor=white" />
